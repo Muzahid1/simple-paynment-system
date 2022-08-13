@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(71 24 233);
+}
+.div {
+    background-color: rgb(255 255 255);
+    border-radius: 7px;
+    margin-top: 10%;
+    width: 200px;
+    border: solid white;
+   margin-left: 40%;
+   margin-right: 50%;
+  
+    
+}
+.input{
+    position:center;
+}
+.form {
+    margin-left: 10px;
+    margin-top:5px;
+}
+.lable {
+    color: rgb(104, 81, 235);
+    position: center;
+
+}
+.button {
+    color: rgb(21, 233, 74);
+    border: border-box;
+    margin-left: 30%;
+}
